@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Ferrete 
 
 - 🔭 Disponível
-- 🌱 Estudando Python
+- 🌱 Estudando Java e Python
 - 😄 Pronomes: ele/dele
 
  <div>
