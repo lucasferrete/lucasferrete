@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/885896279459258419/885896334354284554/ezgif-1-ff6e2ebefa82.gif" width="110" height="110">
+  <img align="right" alt="Lucas-gif" src="https://cdn.discordapp.com/attachments/885896279459258419/885896334354284554/ezgif-1-ff6e2ebefa82.gif" width="110" height="110">
 </div>
   
   ##
