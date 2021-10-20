@@ -2,7 +2,6 @@
 
 - 🔭 Disponível
 - 🌱 Estudando Java e Python
-- 😄 Pronomes: ele/dele
 
  <div>
   <a href="https://github.com/lucasferrete">
