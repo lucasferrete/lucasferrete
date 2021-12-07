@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Ferrete 
+### Eae! Eu sou o Lucas Ferrete 
 
 - 🔭 Disponível
 - 🌱 Estudando Java e Python
