@@ -16,7 +16,7 @@
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" alt="Lucas-gif" src="https://cdn.discordapp.com/attachments/885896279459258419/917601203976802304/d8743ef4a8dd35f68e4a0f706d53d77a_w200.gif" width="100" height="163">
+  <img align="right" alt="Lucas-gif" src="https://cdn.discordapp.com/attachments/885896279459258419/917602446648410142/54ee99d9c3f16a7cbe59d8aaf1365ac46c501b12r1-200-200_hq.gif" width="150" height="150">
 </div>
   
   ##
