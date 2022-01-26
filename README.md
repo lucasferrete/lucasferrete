@@ -20,5 +20,7 @@
 </div>
   
   ##
+ 
+  <a href="https://www.linkedin.com/in/lucas-dos-santos-ferrete-76315322b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![Snake animation](https://github.com/lucasferrete/lucasferrete/blob/output/github-contribution-grid-snake.svg)
