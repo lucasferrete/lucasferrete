@@ -19,8 +19,7 @@
   <img align="right" alt="Lucas-gif" src="https://cdn.discordapp.com/attachments/885896279459258419/917602446648410142/54ee99d9c3f16a7cbe59d8aaf1365ac46c501b12r1-200-200_hq.gif" width="150" height="150">
 </div>
   
-  ##
- 
+ <div>
   <a href="https://www.linkedin.com/in/lucas-dos-santos-ferrete-76315322b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
    ![Snake animation](https://github.com/lucasferrete/lucasferrete/blob/output/github-contribution-grid-snake.svg)
+ </div>
