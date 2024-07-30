@@ -1,7 +1,7 @@
 ### Eae! Eu sou o Lucas Ferrete 
 
 - 🔭 Disponível
-- 🌱 Estudando Python
+- 🌱 Estudando Flutter/Dart
 
  <div>
   <a href="https://github.com/lucasferrete">
