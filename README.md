@@ -1,6 +1,5 @@
 ### Eae! Eu sou o Lucas Ferrete 
 
-- 🔭 Disponível
 - 🌱 Estudando Flutter/Dart
 
  <div>
