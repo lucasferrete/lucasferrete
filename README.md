@@ -23,6 +23,6 @@
  <div>
   <a href="https://www.linkedin.com/in/lucas-dos-santos-ferrete-76315322b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/lucasferrete/lucasferrete/output/github-contribution-grid-snake.svg" />
+![snake gif](https://github.com/lucasferrete/lucasferrete/blob/output/github-contribution-grid-snake.gif)
   
  </div>
